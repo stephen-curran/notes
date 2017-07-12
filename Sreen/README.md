@@ -1,5 +1,5 @@
 # Screen Notes
-
+https://www.rackaid.com/blog/linux-screen-tutorial-and-how-to/
 
 # Actions
 To trigger screen action first type ctrl then "a" followed by the action
