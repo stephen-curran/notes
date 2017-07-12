@@ -1,2 +1,2 @@
 # notes
-Notes
+Collection of Notes and Scripts
