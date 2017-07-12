@@ -13,7 +13,7 @@ screen -S = session name
 ### List active screen sessions and thier state
 
 ```
-screen ls = list screen  
+screen -ls
 ```
 
 ### Reconnect to a screen
