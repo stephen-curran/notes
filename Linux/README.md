@@ -1,15 +1,48 @@
 # Linux Commands
 
-which <program> to test program installed 
+### Check if program is installed
 
-man = get manual page for program  to find keyword /year
+```
+which <program> 
+```
 
-yes = print y forever
+### Manual page for program 
 
-ctrl + l to clear terminal = clears the buffer of terminal
-top = linux task manager 
-htop = more friendly version 
+```
+man <program>
+```
 
-exit / ctrl D  = kill process
+### Print Y forever
 
+```
+yes
+```
+
+### Clear Terminal 
+
+```
+ctrl + l 
+```
+
+### Linux Task Manager
+
+```
+top 
+```
+
+OR 
+
+```
+htop 
+````
+
+### Kill Process
+
+```
+exit
+```
+
+OR 
+
+ctrl D 
 apt-get = Ubuntu / debian - easy to install unix 
