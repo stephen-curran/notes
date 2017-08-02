@@ -46,3 +46,28 @@ OR
 
 ctrl D 
 apt-get = Ubuntu / debian - easy to install unix 
+
+### Modify file permissions
+
+```
+chmod + x
+```
+Adds executable permissiom 
+
+|Permission	         |rwx
+|------------------------|------
+|read, write and execute |rwx
+|read and write	         |rw-
+|read and execute	 |r-x
+|read only     	         |r--
+|write and execute	 |-wx
+|write only	         |-w-
+|execute only	         |--x
+|none	                 |---
+
+
+### Change to previous directory
+
+```
+cd - 
+```
