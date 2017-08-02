@@ -71,3 +71,7 @@ Adds executable permissiom
 ```
 cd - 
 ```
+### Change DOS file to UNIX format
+```
+dos2unix <filename>
+```
