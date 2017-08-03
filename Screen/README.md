@@ -13,7 +13,7 @@ screen -ls
 ```
 ### Create new Screen session
 ```
-screen -S = session name
+screen -S session name
 ```
 
 ### Kill screen session
