@@ -66,12 +66,28 @@ Adds executable permissiom
 |none	                 |---
 
 
-### Change to previous directory
-
-```
-cd - 
-```
 ### Change DOS file to UNIX format
 ```
 dos2unix <filename>
+```
+
+## Directory Manipulation
+Change to previous dir
+```
+cd - 
+```
+Make directory
+```
+mkdir <directoryname>  
+```
+
+Delete directory
+```
+rmdir <directoryname>  
+```
+
+
+Delete full directory
+```
+rm -r <directoryname>  
 ```
